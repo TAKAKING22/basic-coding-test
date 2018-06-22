@@ -66,6 +66,4 @@ ex)
 <img src="https://gist.githubusercontent.com/TAKAKING22/d61cc0587e7a24b1b711a2540994a931/raw/ca4d49030fbd1dc336d332fe95da6610522fdbc7/phptest02.png" width="500">
 
 ### Note
-- Write your code inside the "TODO" comment.
-- Add one space both left and right of the message.
-- You can assume that the message might be English, no multi-byte characters.
+- Write your code inside the "TODO" comment in calculator.php.

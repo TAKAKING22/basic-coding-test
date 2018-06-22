@@ -31,13 +31,13 @@ SELECT * FROM members;
 <details>
 <summary>if you will create database, please confirm the following</summary>
 
-### 1. create database
+### 1. Create database
 
 ```sql 
 CREATE DATABASE rnewgradstest;
 ```
 
-### 2. create tables
+### 2. Create tables
 
 ```sql 
 CREATE TABLE rnewgradstest.members (
@@ -53,7 +53,7 @@ CREATE TABLE rnewgradstest.teams (
 );
 ```
 
-### 3. insert datas
+### 3. Insert data
 
 ```sql
 INSERT INTO rnewgradstest.members (member_id, member_name, team_id)
@@ -78,7 +78,7 @@ INSERT INTO rnewgradstest.teams (team_id, team_name)
 
 - - -
 
-## Q11 : Now, you wants to see member's name of "Team K". Write an SQL query to meet the requirement, like below.
+## Q11 : Now, you want to see each member's name of "Team K". Write an SQL query to meet the requirement, like below.
 
 ```sql 
 +-----------------+
@@ -90,7 +90,7 @@ INSERT INTO rnewgradstest.teams (team_id, team_name)
 +-----------------+
 ```
 
-## Q12 : Now, you wants to see a list of member_name and team_name. Write an SQL query to meet the requirement, like below.
+## Q12 : Now, you want to see a list of member_name and team_name. Write an SQL query to meet the requirement, like below.
 
 ```sql 
 +--------------------+-----------+
