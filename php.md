@@ -50,7 +50,7 @@ $result;
 <!-- ================== calculator.php : abobe ================== -->
 ```
 
-## 1. When you run calculator.php on your Cloud9, and see preview.
+## 1. Run calculator.php on your Cloud9, and see preview.
 
 <img src="https://gist.githubusercontent.com/TAKAKING22/d61cc0587e7a24b1b711a2540994a931/raw/ca4d49030fbd1dc336d332fe95da6610522fdbc7/phptest01.png" width="500">
 
@@ -59,7 +59,7 @@ $result;
 
 ### Requirement
 This calculator has functions of addition, subtraction, multiplication and division.  
-When the Calculate button is pressed, the screen transitions and the input value and calculation result are displayed
+When the Calculate button is pressed, the screen transitions and the input value and calculation result are displayed.
 
 ex)
 
