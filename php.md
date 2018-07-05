@@ -3,10 +3,10 @@
 ```html
 <!-- ================== calculator.php : below ================== -->
 <?php
-$first_num;
-$second_num;
-$operator;
-$result;
+$first_num = null;
+$second_num = null;
+$operator = null;
+$result = null;
 //===== TODO: write your code below =====
 
 //===== TODO: write your code above =====
@@ -42,7 +42,7 @@ $result;
             <label class="col-md-1 col-form-label">=</label>
             <label class="col-md-1 col-form-label"><?php echo $result; ?></label>
         </div>
-        <button type="submit" class="btn btn-primary">Caluculate</button>
+        <button type="submit" class="btn btn-primary">Calculate</button>
     </form>
 </div>
 </body>
